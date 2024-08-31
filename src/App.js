@@ -4,6 +4,7 @@ import QuoteDetail from "./components/pages/QuoteDetail";
 import NewQuotes from "./components/pages/NewQuote";
 import Layout from "./components/layout/Layout";
 
+
 function App() {
   return (
     <Layout>
